@@ -3,7 +3,7 @@ upstream:
   type: "monorepo"
   source: https://github.com/chipsalliance/caliptra-rtl
   path: src/spi_host
-  commit: 0c2a349a05f6e8ef06ebe6adec07bbe2442d5956
+  commit: 3c38dc73e813f9904e8ff43ca04732305b609cbb
   extracted_at: "2026-03-27T20:52:56Z"
 import:
   rtl:
